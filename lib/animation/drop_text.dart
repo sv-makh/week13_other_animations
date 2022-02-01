@@ -52,7 +52,7 @@ class _DropTextState extends State<DropText> with TickerProviderStateMixin {
         title: Text('Press arrow'),
         trailing: GestureDetector(
           child: RotationTransition(
-            //вращение против часовой стрелки на 90 градусов
+            //вращение против часовой стрелки на 180 градусов
               turns: Tween(begin: 0.0, end: -0.5).animate(
                   _controllerArrow),
               child: Icon(Icons.arrow_upward)
