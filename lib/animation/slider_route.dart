@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//анимация выдвижения справа налево при переходе к экрану page
+
 class SliderRoute extends PageRouteBuilder {
   final Widget page;
 
