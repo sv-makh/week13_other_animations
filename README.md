@@ -1,6 +1,6 @@
 # week13_other_animations
 
-A new Flutter project.
+A new Flutter project._
 
 ## Getting Started
 
